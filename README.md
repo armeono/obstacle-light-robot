@@ -1,5 +1,5 @@
 # obstacle-light-robot
-A robot that tracks a light source and avoids obstacles
+A robot that tracks a light source and avoids obstacles, built using the Texas Instruments MSP432 microcontroller.
 
 
 ![IMG_8627](https://github.com/armeono/obstacle-light-robot/assets/72741758/9b015471-33e0-4539-962f-4e4920e53212)
